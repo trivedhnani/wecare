@@ -29,7 +29,7 @@ export const AddPostAyncStart = (data) => {
       dispatch(AddPostStart());
       const res = await axios({
         method: "POST",
-        url: "http://127.0.0.1:5000/api/post",
+        url: "/api/post",
         data,
       });
       dispatch(fetchPostStartAsync());
