@@ -1,0 +1,62 @@
+{
+  "dentist": {
+    "description1": "Many Americans today enjoy excellent oral health and are keeping their natural teeth throughout their lives. But this is not the case for everyone. Cavities are still the most prevalent chronic disease of childhood.\nToo many people mistakenly believe that they need to see a dentist only if they are in pain or think something is wrong, but they're missing the bigger picture. A dental visit means being examined by a doctor of oral health capable of diagnosing and treating conditions that can range from routine to extremely complex.\n\n\n",
+    "description2": "Dentists' oversight of the clinical team is critical to ensuring safe and effective oral care. Even seemingly routine procedures such as tooth extractions, preparing and placing fillings or administering anesthetics carry potential risks of complications such as infection, temporary or even permanent nerve damage, prolonged bleeding, hematomas and pain.",
+    "image": "dentist.jpg"
+  },
+  "dermatologist": {
+    "description1": "Dermatology is an area of medicine that focuses on health issues affecting the skin, hair, nails, and mucous membranes.The skin is the largest organ of the body. It is also the first line of defense against pathogens and injury, and it can be a good indicator of overall health.It is important to know that a dermatologist has a full license or certification before visiting them. Some practitioners in spas and beauty clinics call themselves dermatologists but do not have the necessary accreditation.",
+    "description2": "The American Academy of Dermatology (AAD) is the largest membership dermatology group in the United States, with more than 20,000 members.To qualify for registration with the AAD, a dermatologist has to finish both college and medical school as either a medical doctor (MD) or a doctor of osteopathic medicine (DO). They will also have completed a residency involving 1 year of hands-on work.",
+    "image": "dermatologist.jpg"
+  },
+  "endocrinologist": {
+    "description1": "Endocrinologists are doctors who specialize in glands and the hormones they make. They deal with metabolism, or all the biochemical processes that make your body work, including how your body changes food into energy and how it grows.They may work with adults or kids. When they specialize in treating children, they're called pediatric endocrinologists.",
+    "description2": "Endocrinologists are licensed internal medicine doctors who have passed an additional certification exam.They go to college for 4 years, then medical school for 4 more years. Afterward, they work in hospitals and clinics as residents for 3 years to get experience treating people. They'll spend another 2 or 3 years training specifically in endocrinology.The whole process usually takes at least 10 years.",
+    "image": "endocrinologist.jpg"
+  },
+  "gastroenterologist": {
+    "description1": "Some medical words can be hard to pronounce. A prime example: gastroenterology, the branch of medicine that focuses on the digestive tract. It’s easy to see why many people call it gastrologyby mistake.Gastrology does have a medical definition: It’s the study of the stomach and stomach diseases. But it’s not a medical specialty in the United States today. The type of doctor you’d see for stomach problems is a gastroenterologist, not a gastrologist.",
+    "description2": "Gastrology may have been a medical term in the early 1900s, judging by journals from around that time. If so, the word was long ago replaced by gastroenterology. You won’t find doctors who describe themselves as gastrologists today -- at least not in the U.S.",
+    "image": "gastroenterologist.jpg"
+  },
+  "acid reflux": {
+    "description1": "At the entrance to your stomach is a valve, which is a ring of muscle called the lower esophageal sphincter (LES). Normally, the LES closes as soon as food passes through it. If the LES doesn't close all the way or if it opens too often, acid produced by your stomach can move up into your esophagus. This can cause symptoms such as a burning chest discomfort called heartburn. If acid reflux symptoms happen more than twice a week, you may have acid reflux disease, also known as gastroesophageal reflux disease (GERD).",
+    "description2": "One common cause of acid reflux disease is a stomach abnormality called a hiatal hernia. This occurs when the upper part of the stomach and LES move above the diaphragm, a muscle that separates your stomach from your chest. Normally, the diaphragm helps keep acid in our stomach. But if you have a hiatal hernia, acid can move up into your esophagus and cause symptoms of acid reflux disease.",
+    "image": "acid_reflux.jpg"
+  },
+  "high blood pressure": {
+    "description1": "High blood pressure is a common condition in which the long-term force of the blood against your artery walls is high enough that it may eventually cause health problems, such as heart disease.If you don't regularly see your doctor, you may be able to get a free blood pressure screening at a health resource fair or other locations in your community. You can also find machines in some stores that will measure your blood pressure for free.",
+    "description2": "Primary (essential) hypertensionFor most adults, there's no identifiable cause of high blood pressure. This type of high blood pressure, called primary (essential) hypertension, tends to develop gradually over many years.Secondary hypertensionSome people have high blood pressure caused by an underlying condition. This type of high blood pressure, called secondary hypertension, tends to appear suddenly and cause higher blood pressure than does primary hypertension. Various conditions and medications can lead to secondary hypertension",
+    "image": "high_bp.jpg"
+  },
+  "diabates": {
+    "description1": "Diabetes is a disease that occurs when your blood glucose, also called blood sugar, is too high. Blood glucose is your main source of energy and comes from the food you eat. Insulin, a hormone made by the pancreas, helps glucose from food get into your cells to be used for energy. Sometimes your body doesn’t make enough—or any—insulin or doesn’t use insulin well. Glucose then stays in your blood and doesn’t reach your cells.",
+    "description2": "Over time, having too much glucose in your blood can cause health problems. Although diabetes has no cure, you can take steps to manage your diabetes and stay healthy.Sometimes people call diabetes “a touch of sugar” or “borderline diabetes.” These terms suggest that someone doesn’t really have diabetes or has a less serious case, but every case of diabetes is serious.",
+    "image": "diabates.jpg"
+  },
+  "osteoarthritis": {
+    "description1": "Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage that cushions the ends of your bones wears down over time.Although osteoarthritis can damage any joint, the disorder most commonly affects joints in your hands, knees, hips and spine.",
+    "description2": "Osteoarthritis symptoms can usually be managed, although the damage to joints can't be reversed. Staying active, maintaining a healthy weight and some treatments might slow progression of the disease and help improve pain and joint function.",
+    "image": "osteoarthritis.jpg"
+  },
+  "acupuncture": {
+    "description1": "Acupuncture involves inserting needles at certain points of the body.An acupuncurist will insert needles into a person’s body with the aim of balancing their energy.This, it is claimed, can help boost wellbeing and may cure some illnesses.Conditions it is used for include different kinds of pain, such as headaches, blood pressure problems, and whooping cough, among others.",
+    "description2": "Traditional Chinese medicine explains that health is the result of a harmonious balance of the complementary extremes of “yin” and “yang” of the life force known as “qi,” pronounced “chi.” Illness is said to be the consequence of an imbalance of the forces. Qi is said to flow through meridians, or pathways, in the human body. These meridiens and energy flows are accessible through 350 acupuncture points in the body. ",
+    "image": "acupuncture.jpg"
+  },
+  "vasectomy": {
+    "description1": "Vasectomy is minor surgery to block sperm from reaching the semen that is ejaculated from the penis. Semen still exists, but it has no sperm in it. After a vasectomy the testes still make sperm, but they are soaked up by the body. Each year, more than 500,000 men in the U.S. choose vasectomy for birth control. A vasectomy prevents pregnancy better than any other method of birth control, except abstinence",
+    "description2": "For a conventional vasectomy, 1 or 2 small cuts are made in the skin of the scrotum to reach the vas deferens. The vas deferens is cut and a small piece may be removed, leaving a short gap between the 2 ends. Next, the urologist may sear the ends of the vas, and then tie the cut ends with a suture. These steps are then repeated on the other vas, either through the same cut or through a new one. The scrotal cuts may be closed with dissolvable stitches or allowed to close on their own.",
+    "image": "vasectomy.jpg"
+  },
+  "colonoscopy": {
+    "description1": "A colonoscopy (koe-lun-OS-kuh-pee) is an exam used to detect changes or abnormalities in the large intestine (colon) and rectum.During a colonoscopy, a long, flexible tube (colonoscope) is inserted into the rectum. A tiny video camera at the tip of the tube allows the doctor to view the inside of the entire colon.If necessary, polyps or other types of abnormal tissue can be removed through the scope during a colonoscopy. Tissue samples (biopsies) can be taken during a colonoscopy as well.",
+    "description2": "A colonoscopy is considered positive if the doctor finds any polyps or abnormal tissue in the colon.Most polyps aren't cancerous, but some can be precancerous. Polyps removed during colonoscopy are sent to a laboratory for analysis to determine whether they are cancerous, precancerous or noncancerous.Depending on the size and number of polyps, you may need to follow a more rigorous surveillance schedule in the future to look for more polyps.",
+    "image": "colonoscopy.jpg"
+  },
+  "hysterectomy": {
+    "description1": "A hysterectomy is an operation to remove a woman's uterus. A woman may have a hysterectomy for different reasons. Depending on the reason for the hysterectomy, a surgeon may choose to remove all or only part of the uterus. Patients and health care providers sometimes use these terms inexactly, so it is important to clarify if the cervix and/or ovaries are removed.",
+    "description2": "The ovaries may also be removed -- a procedure called oophorectomy -- or may be left in place. When the tubes are removed that procedure is called salpingectomy. So, when the entire uterus, both tubes, and both ovaries are removed, the entire procedure is called a hysterectomy and bilateral salpingectomy-oophorectomy",
+    "image": "hysterectomy.jpg"
+  }
+}

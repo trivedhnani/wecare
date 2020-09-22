@@ -1,0 +1,54 @@
+.headCaption {
+    font-size: 2.5rem;
+    background-color: white;
+    color: green;
+    width: 200%;
+    margin-left: -50%;
+}
+
+.caption {
+    font-weight: bolder;
+    font-size: 1.2rem;
+    color: white;
+}
+
+.cpadding {
+    padding: 0;
+    max-width: none;
+}
+
+.cardInfo {
+    height: 100%;
+}
+
+.cardlayout {
+    width: 33rem !important;
+    box-shadow: 2px 2px 4px #000000;
+}
+
+.twitter-cardlayout {
+    width: 66rem !important;
+    font-size: smaller;
+    box-shadow: 2px 2px 4px #000000;
+}
+
+.card-body a {
+    text-decoration: none;
+    color: black;
+}
+
+.col{
+    padding: 1%;
+}
+
+jumbotron {
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: 0.3rem;
+}
+
+@media (min-width: 576px){
+    .jumbotron {
+        padding: 0rem 0rem;
+    }
+}

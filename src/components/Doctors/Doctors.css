@@ -1,0 +1,176 @@
+.video-background {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+  z-index: -1;
+  transform: translateX(calc((100% - 100vw) / 2));
+}
+.videoBack {
+  margin-top: -3rem;
+  background-image: linear-gradient(#dcddef, #ebb8b0);
+}
+
+.product {
+  padding: 1rem 0.5rem 0.5rem 0.5rem;
+  margin: 0%;
+}
+
+.rP {
+  padding: 0.5rem;
+}
+
+.cardBody {
+  padding: 0.5rem;
+}
+
+.imgTop {
+  padding: 0.5rem;
+  height: 14vw;
+}
+
+.btn-p {
+  margin-right: 1rem;
+  background-color: grey;
+  color: honeydew;
+}
+
+.btn-secondary {
+  background-color: rgb(133, 146, 133);
+}
+
+.card-title {
+  text-align: center;
+  font-weight: bolder;
+  color: green;
+  text-shadow: 2px 2px lightgrey;
+  font-size: x-large;
+}
+
+i {
+  margin-right: 0.1rem;
+}
+
+b {
+  margin-left: 11rem;
+}
+
+.btn-bt {
+  margin-right: 1rem;
+}
+
+hr {
+  margin-block-start: 0rem;
+  margin-block-end: 0rem;
+  margin-left: 0rem;
+  padding: 0rem;
+}
+
+.m {
+  margin-left: 0.7rem;
+}
+
+.dd {
+  margin-left: 1rem;
+}
+
+ul {
+  margin: 0rem;
+  padding: 0.5rem;
+}
+
+.buy {
+  margin-left: -0.6rem;
+  float: right;
+}
+
+.head {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.img {
+  height: 10rem;
+  width: 16rem;
+}
+
+.c {
+  border: 0rem;
+}
+
+.text {
+  text-align: left;
+}
+
+.checkoutBtn {
+  margin-top: -5rem;
+}
+
+.cc {
+  padding: 0rem;
+}
+
+.imgPTop {
+  height: 35rem;
+}
+.ReviewOrder {
+  background-image: linear-gradient(#dcddef, #ebb8b0);
+  margin-top: -1rem;
+}
+
+.browse_list {
+  margin: 40px 20px;
+  min-width: 300px;
+  padding: 20px 10px 40px 10px;
+  border: 0.5px solid rgba(0, 0, 0, 0.349);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.185);
+  border-radius: 10px;
+  background: white;
+  color: black;
+  text-align: center;
+}
+
+.browse_heading {
+  font-weight: bold;
+  padding: 10px;
+}
+
+.seperator_line {
+  background: rgb(0, 132, 255);
+  margin: 0 auto 10px auto;
+  width: 100px;
+  height: 5px;
+}
+
+.browse_item {
+  color: rgb(77, 77, 77);
+  margin: 10px 0px;
+}
+.view_all {
+  color: rgb(0, 132, 255);
+}
+
+.browse_icon {
+  color: rgb(0, 132, 255);
+  font-size: 30px !important;
+  margin: 20px;
+}
+
+.browse_link {
+  color: blue !important;
+}
+
+.image_wrapper_doctor {
+  height: 40vh;
+  overflow: hidden;
+}
+
+.browse_description {
+  text-align: left !important;
+}
+.browse_image {
+  width: 50%;
+}

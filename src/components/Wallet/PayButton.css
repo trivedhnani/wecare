@@ -1,0 +1,60 @@
+a.button3 {
+    display: inline-block;
+    padding:0.3em 1.2em;
+    margin:0 0.3em 0.3em 0;
+    border-radius:2em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    /*color:#FFFFFF;*/
+    background-color:#4eb5f1;
+    text-align:center;
+    transition: all 0.2s;
+}
+a.button3:hover{
+    background-color:#4095c6;
+}
+
+.myButton {
+    box-shadow: 3px 4px 0px 0px #899599;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 70px;
+    background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+    background-color:#ededed;
+    border-radius:15px;
+    border:1px solid #d6bcd6;
+    display:inline-block;
+    cursor:pointer;
+    color:black;
+    font-family:Arial;
+    font-size:17px;
+    padding:7px 25px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #e1e2ed;
+}
+.myButton:hover {
+    background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+    background-color:#bab1ba;
+}
+.myButton:active {
+    position:relative;
+    top:1px;
+}
+
+.h6 {
+    /*margin: 0 auto;*/
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 50px 0 5px 0;
+    color: black;
+    font-weight: normal;
+    font-family: '"Helvetica Neue", Helvetica, sans-serif';
+    position: relative;
+    text-shadow: 0 2px 0 rgba(255,255,255,0.5);
+    font-size: 30px;
+    line-height: 40px;
+}
+

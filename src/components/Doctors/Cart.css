@@ -1,0 +1,144 @@
+.cart-container {
+    min-height: 35rem;
+    padding-top: 5rem;
+  }
+  .cartBg{
+    margin-top: -1rem;
+    background-image: linear-gradient( #F7F8FF , #ebb8b0 );
+  }
+  .cart-container h1 {
+    margin-top: 1rem;
+  }
+  
+  .cart {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .cart-info {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height:100%;
+    margin-left: 5rem;
+    min-height: auto;
+    border: 0.1rem solid black;
+    padding-left: 4rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  
+  .cart-info .total {
+    font-size: 22px;
+    color: green;
+  }
+  
+ 
+  .cart-info .btn {
+    width: 150px;
+    margin: 10px auto;
+    margin-left: 0.5rem;
+  }
+  
+  .cart-items {
+    width: 78%;
+  }
+  
+  .cart-items img {
+    max-width: 50px;
+  }
+  
+  .cart-items table {
+    width: 100%;
+    border-spacing: 0;
+  }
+  
+  .cart-items th {
+    padding: 5px 5px;
+    background-color:rgb(94, 175, 185);
+    color: white;
+    text-align: left;
+  }
+  
+  .cart-items th:first-child {
+    width: 70px;
+  }
+  
+  .cart-items th:last-child {
+    width: 15px;
+  }
+  
+  .cart-items td {
+    padding: 12px 5px;
+    text-align: left;
+    border-bottom: 1px solid #00BCD4;
+  }
+  
+  .cart-items td:nth-child(4) {
+    text-align: center;
+  }
+  
+  .cart-items a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  .cart-items button {
+    padding: 1px 5px;
+    background: none;
+    color: #F44336;
+    font-weight: bold;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  .cart-items button:hover {
+    background: #F44336;
+    color: white;
+  }
+  
+  .cart-items h1 {
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  @media (max-width: 1000px) {
+    .cart-container h1 {
+      margin-top: 100px;
+      margin-bottom: 30px;
+      font-size: 24px;
+    }
+  
+    .cart {
+      flex-direction: column;
+    }
+  
+    .cart-info {
+      flex-direction: row;
+      width: 100%;
+    }
+  
+    .cart-info .info {
+      width: 50%;
+    }
+  
+    .cart-info .btns {
+      width: 50%;
+    }
+  
+    .cart-info .btn {
+      margin: 10px;
+    }
+  
+    .cart-items {
+      width: 100%;
+      margin: 40px auto 60px auto;
+    }
+
+    .empty{
+      margin-right: 9rem;
+    }
+  }
